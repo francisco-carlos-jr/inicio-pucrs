@@ -1,3 +1,3 @@
 var arrayNovo = ['1','2','3','5']
 
-console.log(arrayNovo[3])
+console.log(arrayNovo)
