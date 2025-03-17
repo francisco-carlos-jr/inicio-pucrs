@@ -1,3 +1,2 @@
-var arrayNovo = ['1','2','3','5']
-
-console.log(arrayNovo)
+let arrayNovo = []
+console.log(Math.random())
